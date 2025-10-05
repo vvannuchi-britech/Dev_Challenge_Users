@@ -36,15 +36,30 @@ Construir um pequeno sistema de **gestão de usuários** com autenticação e CR
 ---
 
 ## 📊 Critérios de Avaliação
--  O Projeto deve funcionar em localhost, então é importante deixar claro todos pré requisitos de instalação para fazer o projeto funcionar e quais comandos necessários. Irremos literalmente avaliar o codigo que foi feito, todos os itens que estão apontados aqui como "esperados" serão tratados como checklist e testados. Os itens diferenciais serão levados em consideração também.
-- Teremos uma reunião ao fim do challenge para analisaremos em conjunto o código do projeto e tirarmos duvidas sobre o codigo que foi feito.
+- O Projeto deve funcionar em localhost, então é importante deixar claro todos pré requisitos de instalação para fazer o projeto funcionar e quais comandos necessários.
+- Avaliaremos o codigo que foi feito, todos os itens que estão apontados aqui como "esperados" serão tratados como checklist e testados.
+- Os itens diferenciais serão levados em consideração também.
+- Seus commits, padrão de branch e etc, também serão observados.
+- Teremos uma reunião ao fim do desafio para analisar em conjunto o código do projeto e tirar duvidas sobre o codigo.
 
 ---
 
 ## ⏱️ Prazo sugerido
-- Entrega em até **1–2 semanas**.  
+- Entrega em até **2 semanas**.  
 - Escopo mínimo: Autenticação + CRUD de usuários.  
 
+---
+
+## 🧩 Como começar o desafio
+
+1. Clique no botão **"Use this template"** no topo deste repositório.
+2. Escolha **"Create a new repository"** em sua conta pessoal do GitHub.
+3. Dê o nome que quiser ao repositório (ex: `desafio-usuarios-seu-nome`).
+4. Implemente o desafio no seu próprio repositório.
+5. Ao finalizar:
+   - Se público: envie o link do repositório.
+   - Se privado: adicione o usuário **SEU-USUARIO-GITHUB** como colaborador.
+  
 ---
 
 Boa sorte! 🍀  
