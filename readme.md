@@ -45,7 +45,7 @@ Construir um pequeno sistema de **gestão de usuários** com autenticação e CR
 ---
 
 ## ⏱️ Prazo sugerido
-- Entrega em até **2 semanas**.  
+- Entrega em até **3 semanas**.  
 - Escopo mínimo: Autenticação + CRUD de usuários.  
 
 ---
