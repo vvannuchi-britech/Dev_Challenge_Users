@@ -63,4 +63,4 @@ Construir um pequeno sistema de **gestão de usuários** com autenticação e CR
 ---
 
 Boa sorte! 🍀  
-Tente mostrar ao máximo suas habilidades, mesmo que usando A.I para partes do código é importante você saber tudo do projeto e saber explicar linha a linha do seu código !
+Tente mostrar ao máximo suas habilidades !
