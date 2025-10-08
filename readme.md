@@ -58,7 +58,7 @@ Construir um pequeno sistema de **gestão de usuários** com autenticação e CR
 4. Implemente o desafio no seu próprio repositório.
 5. Ao finalizar:
    - Se público: envie o link do repositório por email.
-   - Se privado: adicione o usuário **SEU-USUARIO-GITHUB** como colaborador.
+   - Se privado: adicione o usuário **vvannuchi-britech** como colaborador.
   
 ---
 
